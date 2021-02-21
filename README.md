@@ -14,5 +14,8 @@ Your registration as a freelance in Germany
 ## Invoicing and accounts
 Topic | URL
 ------------ | -------------
-| Slimvoice                       | [Link](https://slimvoice.co/) |
+| Slimvoice  (free) | [Link](https://slimvoice.co/) |
 | Zervant ** Currently using | [Link](https://www.zervant.com/de) |
+| Debitoor (paid) | [Link](https://debitoor.de/) |
+| Sevdesk (paid)| [Link](https://sevdesk.de/) |
+| Lexoffice (paid) | [Link](https://www.lexoffice.de/) |
