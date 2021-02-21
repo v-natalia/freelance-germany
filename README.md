@@ -1,10 +1,17 @@
 # How to launch your freelance activity in Germany :de:
 
-## First: Send your "Fragebogen zur steuerlichen Erfassung"
-Wait... my What?
-Your registration as a freelance in Germany
+## How to start
+| Topic | URL |
+| ----- | --- |
+|How to be freelancer in :de: |[Link](https://n26.com/en-eu/blog/how-to-be-a-freelancer-in-germany)|
+|Legal structure in :de:| [Link](https://help.getsorted.de/en/articles/3782735-legal-structure-for-self-employment-freiberufler-gewerbetreibende-and-others)|
+|I recommend to read this guide, all you need to know to manage your freelance work in Germany | [Link](https://help.getsorted.de/en/)|
 
-## Registration and accounting (tax reports and more)
+
+## First: Send your "Fragebogen zur steuerlichen Erfassung"
+Wait... my What?... Your registration as a freelance in Germany
+
+# Registration and accounting (tax reports and more)
 
 | Topic                     | URL                                |
 ------------ | -------------
