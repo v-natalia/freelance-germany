@@ -8,7 +8,7 @@ Your registration as a freelance in Germany
 
 | Topic                     | URL                                |
 ------------ | -------------
-| Get Sorted :en: :de: | [Link](https://en.getsorted.de/) |
+| Get Sorted :gb: :de: | [Link](https://en.getsorted.de/) |
 
 
 ## Invoicing and accounts
