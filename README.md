@@ -9,7 +9,7 @@
 
 
 ## First: Send your "Fragebogen zur steuerlichen Erfassung"
-Wait... my What?... Your registration as a freelance in Germany
+Wait... my What?... Your registration as a freelance in Germany ... you can do it also with [Get Sorted](https://en.getsorted.de/)
 
 # Registration and accounting (tax reports and more)
 
@@ -22,7 +22,9 @@ Wait... my What?... Your registration as a freelance in Germany
 Topic | URL
 ------------ | -------------
 | Slimvoice  (free) | [Link](https://slimvoice.co/) |
-| Zervant ** Currently using | [Link](https://www.zervant.com/de) |
+| Zervant (free) ** Currently using | [Link](https://www.zervant.com/de) |
 | Debitoor (paid) | [Link](https://debitoor.de/) |
 | Sevdesk (paid)| [Link](https://sevdesk.de/) |
 | Lexoffice (paid) | [Link](https://www.lexoffice.de/) |
+| Also... Get Sorted | [Get Sorted](https://en.getsorted.de/)|
+
