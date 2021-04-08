@@ -22,9 +22,10 @@ Wait... my What?... Your registration as a freelance in Germany ... you can do i
 Topic | URL
 ------------ | -------------
 | Slimvoice  (free) | [Link](https://slimvoice.co/) |
-| Zervant (free) ** Currently using | [Link](https://www.zervant.com/de) |
+| Zervant (free for up to 5 customers) ** | [Link](https://www.zervant.com/de) |
 | Debitoor (paid) | [Link](https://debitoor.de/) |
 | Sevdesk (paid)| [Link](https://sevdesk.de/) |
 | Lexoffice (paid) | [Link](https://www.lexoffice.de/) |
-| Also... Get Sorted | [Get Sorted](https://en.getsorted.de/)|
+| Also... Get Sorted (free if you don't need to declare VAT) ** | [Get Sorted](https://en.getsorted.de/)|
+| ** Currently using |
 
