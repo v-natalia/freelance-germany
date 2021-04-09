@@ -9,13 +9,13 @@
 
 
 ## First: Send your "Fragebogen zur steuerlichen Erfassung"
-Wait... my What?... Your registration as a freelance in Germany ... you can do it also with [Get Sorted](https://en.getsorted.de/)
+Wait... my What?... Your registration as a freelance in Germany ... you can do it also with [Get Sorted*](https://en.getsorted.de?ref=nataliavegariveros&referral_code=Pxv4Gs8T)
 
 # Registration and accounting (tax reports and more)
 
 | Topic                     | URL                                |
 ------------ | -------------
-| Get Sorted :gb: :de: | [Link](https://en.getsorted.de/) |
+| Get Sorted* :gb: :de: | [Link](https://en.getsorted.de?ref=nataliavegariveros&referral_code=Pxv4Gs8T) |
 
 
 ## Invoicing and accounts
@@ -26,6 +26,7 @@ Topic | URL
 | Debitoor (paid) | [Link](https://debitoor.de/) |
 | Sevdesk (paid)| [Link](https://sevdesk.de/) |
 | Lexoffice (paid) | [Link](https://www.lexoffice.de/) |
-| Also... Get Sorted (free if you don't need to declare VAT) ** | [Get Sorted](https://en.getsorted.de/)|
+| Also... Get Sorted* (free if you don't need to declare VAT) ** | [Get Sorted](https://en.getsorted.de?ref=nataliavegariveros&referral_code=Pxv4Gs8T)|
+| * Affiliated link, if you use it and sign up we both get 100 € credit :smile: |
 | ** Currently using |
 
