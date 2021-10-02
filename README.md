@@ -1,5 +1,8 @@
 # How to launch your freelance activity in Germany :de:
 
+So, you moved to Germany and you want to register as a freelancer?
+![Tell Me More](tellme-more.jpg)
+
 ## How to start
 | Topic | URL |
 | ----- | --- |
@@ -36,3 +39,5 @@ Topic | URL
 | Also... Get Sorted* (free if you don't need to declare VAT) ** | [Get Sorted](https://en.getsorted.de?ref=nataliavegariveros&referral_code=Pxv4Gs8T)|
  (*) Affiliated link, if you use it and sign up we both get 100 € credit :smile:
  (**) Currently using
+
+Edited in Oct 2021.
