@@ -1,8 +1,11 @@
 ## Contribution Guide
 This guide will help you to contribute to this project. .
 
-If you want to propose a new App Idea, please use the Example Guide as a base template.
-Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
+This guide provides information ine ENGLISH to people that want to launch their activity as a freelance in Germany.
+It's a specific topic, so please avoid other non-related stuff.
+
+If you want to propose changes, please keep all the information in English, even the sources/links must be written in English.
+Before creating a Pull Request, please make sure that your suggestion is not already in to the project. You can submit an update if you believe it improves something that is already in the guide.
 Make sure you check your spelling and grammar.
-Create individual PR for each suggestion.
-Thank you for spending your time to improve this project! ^\_^
+Please, fork this repo, work on a branch and then create a PR for your suggestions. I will check that as soon as I can.
+Thank you for your contribution.
